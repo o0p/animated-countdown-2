@@ -85,3 +85,6 @@ body {
     transform: translate(-50%, -50%) rotate(0deg);
     animation: goIn 500ms ease-in-out;
 }
+.nums span.out {
+    animation: goOut 500ms ease-in-out;
+}
